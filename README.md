@@ -1,9 +1,10 @@
-# RateSync - The Currency Converter
+# [RateSync - The Currency Converter](https://ratesync.netlify.app/)
 # Currency Converter
 
 ## Overview
 
-The Currency Converter is a robust web application designed to convert amounts between various currencies with real-time exchange rates. Built with modern web technologies, this application provides a seamless and user-friendly experience, enabling users to easily convert and view currency values. This project demonstrates the effective use of HTML, CSS, and JavaScript to create a functional and visually appealing tool for financial calculations.
+The Currency Converter is a robust web application designed to convert amounts between various currencies with real-time exchange rates. Built with modern web technologies, this application provides a seamless and user-friendly experience, enabling users to easily convert and view currency values. This project demonstrates the effective use of HTML, CSS, and JavaScript to create a functional and visually appealing tool for financial calculations. <br>
+LIVE : [pROJECT](https://ratesync.netlify.app/)
 
 ## Features
 
